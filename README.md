@@ -8,7 +8,7 @@ I'm a passionate Software Engineer. I love diving deep into code, solving comple
 * 🤖 I have a strong interest in **Artificial Intelligence** and actively follow the latest advancements in the field.
 * ⚙️ **Dream Project:** One day, I aim to create my very own operating system from scratch!
 * 🌍 I speak both English and **French** (*n'hésitez pas à me contacter en français !*).
-* 🎣 When I'm away from my keyboard, I'm usually getting creative with new flavors in the kitchen or enjoying a relaxing day of fishing.
+* 🎣 When I'm away from my keyboard, I'm usually getting creative with new flavors in the kitchen or enjoying a relaxing day of movies.
 
 ---
 <p align="left">
