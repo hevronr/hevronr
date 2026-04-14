@@ -38,10 +38,10 @@ I'm a passionate Software Engineer. I love diving deep into code, solving comple
   <img src="https://cdn.simpleicons.org/pandas/150458" width="40" title="Pandas"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/jupyter/F37626" width="40" title="Jupyter"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="40" title="Colab"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/livekit/white" width="40" title="LiveKit"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/anthropic/white" width="40" title="Claude"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/livekit/8E75E5" width="40" title="LiveKit"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic/8E75E5" width="40" title="Claude"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlegemini/8E75E5" width="40" title="Gemini"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlecloud/white" width="40" title="GCP"/>
+  <img src="https://cdn.simpleicons.org/googlecloud/8E75E5" width="40" title="GCP"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@ I'm a passionate Software Engineer. I love diving deep into code, solving comple
   <img src="https://cdn.simpleicons.org/bitbucket/0052CC" width="40" title="Bitbucket"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" title="Figma"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/npm/CB3837" width="40" title="NPM"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/white" width="40" title="GitHub"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/8E75E5" width="40" title="GitHub"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" title="Git"/>
 </p>
 
