@@ -4,7 +4,7 @@ I'm a passionate Software Engineer. I love diving deep into code, solving comple
 
 ### 👨‍💻 About Me
 
-* 💻 I specialize as a **PHP Developer**, building robust and scalable applications.
+* 💻 I'm a **Software Engineer** specialize  Web technologies, building robust and scalable applications.
 * 🤖 I have a strong interest in **Artificial Intelligence** and actively follow the latest advancements in the field.
 * ⚙️ **Dream Project:** One day, I aim to create my very own operating system from scratch!
 * 🌍 I speak both English and **French** (*n'hésitez pas à me contacter en français !*).
