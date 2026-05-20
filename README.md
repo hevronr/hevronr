@@ -67,9 +67,9 @@ I'm a passionate Software Engineer. I love diving deep into code, solving comple
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hevronr&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Hevron's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hevronr&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_bust=123" alt="Hevron's GitHub Stats" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevronr&layout=compact&theme=radical&count_private=true&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevronr&layout=compact&theme=radical&count_private=true&hide_border=true&cache_bust=123" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
