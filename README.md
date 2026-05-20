@@ -64,4 +64,24 @@ I'm a passionate Software Engineer. I love diving deep into code, solving comple
 
 ---
 
+### 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=hevronr&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Hevron's GitHub Stats" height="195" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevronr&layout=compact&theme=radical&count_private=true&hide_border=true" alt="Top Languages" height="195" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hevronr&theme=radical&no-bg=true&column=7" alt="GitHub Profile Trophies" />
+  </a>
+</p>
+
+---
+
 ⭐️ *Building from home to the world!*
