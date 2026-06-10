@@ -64,12 +64,4 @@ I'm a passionate Software Engineer. I love diving deep into code, solving comple
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hevronr&theme=radical&no-bg=true&column=7" alt="GitHub Profile Trophies" />
-</p>
-
----
-
 ⭐️ *Building from home to the world!*
